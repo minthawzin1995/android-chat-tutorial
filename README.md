@@ -1,4 +1,6 @@
-# Android chat tutorial: Building A Realtime Messaging App
+# Android chat tutorial: Building A Realtime Messaging App 
+
+# FORKED FROM https://github.com/ScaleDrone/android-chat-tutorial
 
 These are the project files for the [Scaledrone Android chat tutorial](https://www.scaledrone.com/blog/posts/android-chat-tutorial).
 
